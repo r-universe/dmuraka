@@ -5,6 +5,9 @@
 [submodule "scgwr"]
 	path = scgwr
 	url = https://github.com/cran/scgwr
+[submodule "spCF"]
+	path = spCF
+	url = https://github.com/cran/spCF
 [submodule "spmoran"]
 	path = spmoran
 	url = https://github.com/cran/spmoran
