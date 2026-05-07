@@ -7,7 +7,7 @@
 	url = https://github.com/cran/scgwr
 [submodule "spCF"]
 	path = spCF
-	url = https://github.com/cran/spCF
+	url = https://github.com/dmuraka/spcf
 [submodule "spmoran"]
 	path = spmoran
 	url = https://github.com/cran/spmoran
